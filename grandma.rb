@@ -5,4 +5,5 @@ def speak_to_grandma
   else if word == word.capitalize
     puts "NO, NOT SINCE 1938!"
   else
-    puts "HUH?! SPEAK UP, SONNY!" end
+    puts "HUH?! SPEAK UP, SONNY!" 
+end
